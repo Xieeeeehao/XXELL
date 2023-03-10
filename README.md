@@ -1,2 +1,2 @@
 # XXELL
-不知道是一堆什么玩意儿
+QuantumultX
